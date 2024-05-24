@@ -1,17 +1,17 @@
 Giorgos Somarakis
 csd4797
 
-HY-335a Project Phase A
+HY-335a Project 
 
 
-To run the MicroTCP-MASTER
+To run the MicroTCP
 
 mkdir build
 cd build
 cmake ..
 make 
 
-and you are ready to run the compiled files 'server.c' for the server side 
+You are ready to run the compiled files 'server.c' for the server side 
 and the 'client.c' for the client side.
 
 phase A is complete 
